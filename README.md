@@ -531,44 +531,31 @@ The frontend is designed to provide a usable experience across different screen 
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of your application below.
-
-You can simply drag and drop your screenshots into the GitHub repository and place them inside a folder such as:
-
-```text
-screenshots/
-```
-
-Recommended screenshots:
+# 📸 Website View
 
 1. Home Page
+ <img width="1470" height="754" alt="Screenshot 2026-10-01 at 9 54 00 PM" src="https://github.com/user-attachments/assets/db90d4d7-aaf5-4846-b2a1-f3a1df5d4b47" />
+<img width="1470" height="524" alt="Screenshot 2026-10-01 at 9 54 30 PM" src="https://github.com/user-attachments/assets/6d78901a-f533-467d-ae6f-4d7c9de016ed" />
+<img width="1470" height="834" alt="Screenshot 2026-10-01 at 9 55 04 PM" src="https://github.com/user-attachments/assets/6822278f-7fa6-47a3-8bbe-d0ce82104dca" />
+
 2. Desk Listing
+<img width="1470" height="836" alt="Screenshot 2026-10-01 at 9 55 43 PM" src="https://github.com/user-attachments/assets/630dc786-6997-48fb-9aa3-0436a532a4bb" />
+
 3. Desk Selection
-4. Booking Form
-5. Booking Confirmation
-6. Booking/Reservation Dashboard
+<img width="1470" height="835" alt="Screenshot 2026-10-01 at 9 56 30 PM" src="https://github.com/user-attachments/assets/1951da4c-8473-430a-a0fb-3eb229239388" />
+   
+4. Booking Confirmation
+<img width="1470" height="838" alt="Screenshot 2026-10-01 at 9 57 35 PM" src="https://github.com/user-attachments/assets/58d5658a-a246-4943-88eb-9be0f00b2cea" />
 
-Example:
+5. Admin Portal
+<img width="1454" height="517" alt="Screenshot 2026-10-01 at 9 58 33 PM" src="https://github.com/user-attachments/assets/a6a76723-ee3a-4d0f-af3f-d5f9a8035699" />
+<img width="1470" height="836" alt="Screenshot 2026-10-01 at 9 58 46 PM" src="https://github.com/user-attachments/assets/b66df2b1-612e-4761-a6a4-e62ddb8bab7e" />
+<img width="1470" height="802" alt="Screenshot 2026-10-01 at 9 59 37 PM" src="https://github.com/user-attachments/assets/f7606ac0-a665-4c0f-8de8-ccfee6689d38" />
+<img width="1470" height="831" alt="Screenshot 2026-10-01 at 9 59 55 PM" src="https://github.com/user-attachments/assets/62ca6745-c51f-4e57-b59e-69820f34fd07" />
 
-```markdown
-## 🏠 Home Page
+6.In Admin Portal Can add new desk 
+<img width="1470" height="838" alt="Screenshot 2026-10-01 at 10 00 41 PM" src="https://github.com/user-attachments/assets/633e0f24-2291-407b-af34-c4c6250ce380" />
 
-![Home Page](screenshots/home-page.png)
-
-## 🪑 Desk Listing
-
-![Desk Listing](screenshots/desk-list.png)
-
-## 📅 Booking Page
-
-![Booking Page](screenshots/booking-page.png)
-
-## ✅ Booking Confirmation
-
-![Booking Confirmation](screenshots/booking-confirmation.png)
-```
 
 ---
 
